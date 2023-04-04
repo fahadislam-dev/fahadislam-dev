@@ -5,7 +5,7 @@
 
 - 📫 How to reach me **fifahad007@gmail.com**
 
-- 📄 Know about my experiences [https://l.facebook.com/l.php?u=https%3A%2F%2Fwww.linkedin.com%2Fin%2Ffahad-islam-b96a81241%3Ffbclid%3DIwAR0MkZneYa2CrrcNEllpSEWlXLeCR4e_NZN_EcGIbyqDNjICbDeYWGqUKzk&h=AT0kJwDz5AffN_gqSE4W7Oj2O0DFAuNKsU1L5bRFvDqThjW6pTgllSNZsCYJKloPczPFp0DywPLkbMdtqo_cdwN38ywkmlI_ISeQewQHltBVXycZEnQwT1PBCw7NLToNjFhiQQ](https://l.facebook.com/l.php?u=https%3A%2F%2Fwww.linkedin.com%2Fin%2Ffahad-islam-b96a81241%3Ffbclid%3DIwAR0MkZneYa2CrrcNEllpSEWlXLeCR4e_NZN_EcGIbyqDNjICbDeYWGqUKzk&h=AT0kJwDz5AffN_gqSE4W7Oj2O0DFAuNKsU1L5bRFvDqThjW6pTgllSNZsCYJKloPczPFp0DywPLkbMdtqo_cdwN38ywkmlI_ISeQewQHltBVXycZEnQwT1PBCw7NLToNjFhiQQ)
+- 📄 Know about my experiences (https://www.linkedin.com/in/fi-fahad/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
