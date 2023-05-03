@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Fahad Islam</h1>
-- 🔭 I’m currently working on **GUB Class Archive**
+- 🔭 I’m currently working on **IDTP(Interoperable digital transaction Platform)App**
 
-- 🌱 I’m currently learning **Data analysis**
+- 🌱 I’m currently learning **Mobile App Development with flutter**
 
 - 📫 How to reach me **fifahad007@gmail.com**
 
