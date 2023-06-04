@@ -20,6 +20,8 @@
 
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=Fahaddada47&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Fahaddada47&layout=donut)
+
+\<br>
 ⚡ Here are my WakaTime statistics:
 
 <!--START_SECTION:waka-->
