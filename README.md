@@ -20,7 +20,8 @@
 
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=Fahaddada47&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Fahaddada47&layout=donut)
-/
+/ 
+\
 ⚡ Here are my WakaTime statistics:
 
 <!--START_SECTION:waka-->
@@ -35,6 +36,5 @@ Dart   25 mins         >>>>>>>>>>>>>>>>>>>>>>>>>   100.00 %
 
 <!--END_SECTION:waka-->
 
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
+
 
