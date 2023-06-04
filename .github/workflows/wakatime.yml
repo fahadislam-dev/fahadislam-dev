@@ -1,7 +1,7 @@
 name: Update WakaTime stats
 on:
   schedule:
-    - cron: "*/15 * * * *"
+    - cron: "*/5 * * * *"
 
 jobs:
   update-readme-with-wakatime:
