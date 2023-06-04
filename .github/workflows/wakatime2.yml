@@ -3,7 +3,7 @@ on:
   schedule:
     - cron: '0 */4 * * *'
   workflow_dispatch:
-jobs:
+jobs: 
   update-readme:
     name: Update WakaTime Stats
     runs-on: ubuntu-latest
