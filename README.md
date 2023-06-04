@@ -26,11 +26,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 31 May 2023 - To: 03 June 2023
+From: 31 May 2023 - To: 04 June 2023
 
-Total Time: 25 mins
+Total Time: 1 hr 44 mins
 
-Dart   25 mins         >>>>>>>>>>>>>>>>>>>>>>>>>   100.00 %
+Dart   1 hr 44 mins    >>>>>>>>>>>>>>>>>>>>>>>>>   100.00 %
 ```
 
 <!--END_SECTION:waka-->
