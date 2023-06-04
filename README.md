@@ -23,6 +23,7 @@
 
 \
 ⚡ Here are my WakaTime statistics:
+(https://github-readme-stats.vercel.app/api/wakatime?username=fahad47)]
 
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
