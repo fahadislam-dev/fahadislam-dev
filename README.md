@@ -22,8 +22,8 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Fahaddada47&layout=donut)
 
 \
-⚡ Here are my WakaTime statistics:/
-(https://github-readme-stats.vercel.app/api/wakatime?username=fahaddada47)]
+
+[![⚡ Here are my WakaTime statistics:/](https://github-readme-stats.vercel.app/api/wakatime?username=fahaddada47)](https://github.com/anuraghazra/github-readme-stats)
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
 
