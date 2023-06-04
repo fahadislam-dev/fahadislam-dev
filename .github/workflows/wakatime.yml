@@ -7,12 +7,12 @@ on:
 jobs:
   update-readme-with-wakatime:
     runs-on: ubuntu-latest
-    steps:
+    steps: 
       - name: Check out repository code
         uses: actions/checkout@v2
 
       - name: Update WakaTime stats
-        uses: Fahaddada47/Fahaddada47@master
+        uses: athul/waka-readme@master
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
