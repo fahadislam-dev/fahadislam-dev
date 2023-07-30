@@ -51,16 +51,18 @@ Sunday                   59 commits          ███████████�
 
 ```text
 💬 Programming Languages: 
-No Activity Tracked This Week
+GitIgnore file           0 secs              ██████████████░░░░░░░░░░░   56.87 % 
+Markdown                 0 secs              ███████████░░░░░░░░░░░░░░   43.13 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+Android Studio           0 secs              █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+Unknown Project          0 secs              ██████████████░░░░░░░░░░░   56.87 % 
+task_manager             0 secs              ███████████░░░░░░░░░░░░░░   43.13 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  0 secs              █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in C++** 
@@ -76,7 +78,7 @@ Java                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 2023-07-30 @18:12:24 UTC
+ Last Updated on 2023-07-30 @18:34:56 UTC
 <!--END_SECTION:waka-->
 
 
