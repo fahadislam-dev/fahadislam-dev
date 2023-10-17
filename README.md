@@ -51,16 +51,16 @@ Sunday                   62 commits          █████████░░�
 
 ```text
 💬 Programming Languages: 
-No Activity Tracked This Week
+Dart                     13 mins             █████████████████████████   100.00 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+Android Studio           13 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+e_shop                   13 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  13 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in C++** 
@@ -76,7 +76,7 @@ Java                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 2023-10-17 @18:15:13 UTC
+ Last Updated on 2023-10-17 @18:37:22 UTC
 <!--END_SECTION:waka-->
 
 
