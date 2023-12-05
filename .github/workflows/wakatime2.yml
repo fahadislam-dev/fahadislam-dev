@@ -16,6 +16,8 @@ jobs:
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           GH_TOKEN: ${{ secrets.GH_WAKA_TOKEN }}
+          echo "WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}"
+          echo "GH_WAKA_TOKEN: ${{ secrets.GH_WAKA_TOKEN }}"
           COMMIT_MESSAGE: "Update README.md with WakaTime Stats"
           SHOW_UPDATED_DATE: "True"
           UPDATED_DATE_FORMAT: "%Y-%m-%d @%H:%M:%S"
