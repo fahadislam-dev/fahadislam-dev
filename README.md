@@ -31,20 +31,5 @@
 ⚡ Here are my WakaTime statistics:
 
 <!--START_SECTION:waka-->
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-746.0%20thousand%20lines%20of%20code-blue)
 
-**I Mostly Code in C++** 
-
-```text
-C++                      29 repos            ████████████████░░░░░░░░░   63.04 % 
-Dart                     10 repos            █████░░░░░░░░░░░░░░░░░░░░   21.74 % 
-HTML                     3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.52 % 
-Jupyter Notebook         1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.17 % 
-Java                     1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.17 % 
-```
-
-
-
-
- Last Updated on 2024-06-01 @08:18:54 UTC
 <!--END_SECTION:waka-->
