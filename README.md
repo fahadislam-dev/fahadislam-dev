@@ -8,6 +8,7 @@
 - 💬 Ask me about **Flutter & Dart**
 
 - 📫 How to reach me **fifahad007@gmail.com**
+  ![](https://komarev.com/ghpvc/?username=Fahaddada47&color=blueviolet&style=for-the-badge)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
