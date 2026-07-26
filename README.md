@@ -30,26 +30,26 @@
 ⚡ Here are my WakaTime statistics:
 
 <!--START_SECTION:waka-->
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-5.73%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-5.74%20million%20lines%20of%20code-blue?style=flat)
 
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                2469 commits        █████░░░░░░░░░░░░░░░░░░░░   18.22 % 
-🌆 Daytime                8138 commits        ███████████████░░░░░░░░░░   60.06 % 
-🌃 Evening                2803 commits        █████░░░░░░░░░░░░░░░░░░░░   20.69 % 
+🌞 Morning                2472 commits        █████░░░░░░░░░░░░░░░░░░░░   18.24 % 
+🌆 Daytime                8138 commits        ███████████████░░░░░░░░░░   60.05 % 
+🌃 Evening                2803 commits        █████░░░░░░░░░░░░░░░░░░░░   20.68 % 
 🌙 Night                  140 commits         ░░░░░░░░░░░░░░░░░░░░░░░░░   01.03 % 
 ```
 📅 **I'm Most Productive on Tuesday** 
 
 ```text
-Monday                   2414 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.82 % 
+Monday                   2414 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.81 % 
 Tuesday                  2602 commits        █████░░░░░░░░░░░░░░░░░░░░   19.20 % 
 Wednesday                2568 commits        █████░░░░░░░░░░░░░░░░░░░░   18.95 % 
 Thursday                 2260 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.68 % 
 Friday                   102 commits         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.75 % 
 Saturday                 1312 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   09.68 % 
-Sunday                   2292 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.92 % 
+Sunday                   2295 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.93 % 
 ```
 
 
@@ -77,15 +77,15 @@ Mac                      39 hrs 35 mins      ███████████�
 **I Mostly Code in Dart** 
 
 ```text
-Dart                     78 repos            ████████████████░░░░░░░░░   65.55 % 
-C++                      31 repos            ███████░░░░░░░░░░░░░░░░░░   26.05 % 
-HTML                     6 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.04 % 
-Jupyter Notebook         1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.84 % 
-Java                     1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.84 % 
+Dart                     78 repos            ████████████████░░░░░░░░░   65.00 % 
+C++                      31 repos            ██████░░░░░░░░░░░░░░░░░░░   25.83 % 
+HTML                     6 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.00 % 
+Kotlin                   1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.83 % 
+Jupyter Notebook         1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.83 % 
 ```
 
 
 
 
- Last Updated on 2026-07-26 @02:55:11 UTC
+ Last Updated on 2026-07-26 @06:41:51 UTC
 <!--END_SECTION:waka-->
