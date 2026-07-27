@@ -57,21 +57,21 @@ Sunday                   2303 commits        ████░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Other                    28 hrs 38 mins      ██████████████████░░░░░░░   72.33 % 
-Dart                     9 hrs 26 mins       ██████░░░░░░░░░░░░░░░░░░░   23.86 % 
-XML                      51 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.17 % 
-YAML                     14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.62 % 
-Kotlin                   8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.35 % 
+Other                    26 hrs 32 mins      █████████████████░░░░░░░░   67.98 % 
+Dart                     10 hrs 46 mins      ███████░░░░░░░░░░░░░░░░░░   27.57 % 
+XML                      44 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.89 % 
+Kotlin                   27 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.18 % 
+YAML                     17 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.74 % 
 
 🔥 Editors: 
-Chrome                   28 hrs 58 mins      ██████████████████░░░░░░░   73.17 % 
-VS Code                  5 hrs 22 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.57 % 
-Antigravity CLI          3 hrs 24 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.60 % 
-Android Studio           1 hr 41 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.27 % 
+Chrome                   27 hrs 29 mins      ██████████████████░░░░░░░   70.42 % 
+VS Code                  6 hrs 35 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.86 % 
+Antigravity CLI          3 hrs 32 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.06 % 
+Android Studio           1 hr 16 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.27 % 
 Notes                    9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.39 % 
 
 💻 Operating System: 
-Mac                      39 hrs 35 mins      █████████████████████████   100.00 % 
+Mac                      39 hrs 3 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Dart** 
@@ -87,5 +87,5 @@ Jupyter Notebook         1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 2026-07-26 @21:04:42 UTC
+ Last Updated on 2026-07-27 @03:01:40 UTC
 <!--END_SECTION:waka-->
