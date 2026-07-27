@@ -30,6 +30,8 @@
 ⚡ Here are my WakaTime statistics:
 
 <!--START_SECTION:waka-->
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-50%20hrs%2014%20mins-blue?style=flat)
+
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-5.75%20million%20lines%20of%20code-blue?style=flat)
 
 **I'm an Early 🐤** 
@@ -74,6 +76,32 @@ Notes                    9 mins              ░░░░░░░░░░░�
 Mac                      39 hrs 3 mins       █████████████████████████   100.00 % 
 ```
 
+🤖 **AI Coding This Week** 
+
+```text
+⏱ AI Coding Time: 9 hrs 13 mins (23.62%)
+
+✍️ 2,211 lines written by AI, 355 lines written by hand (86.17% AI-written)
+
+🔤 435,745 Input Tokens, 40,741 Output Tokens
+
+💵 $1.92 Estimated AI Cost This Week
+
+🧠 46 AI Sessions, 167 AI Prompts
+
+Gemini                   1,981 lines         ███████████████████░░░░░░   74.84 % 
+Deepseek                 388 lines           ████░░░░░░░░░░░░░░░░░░░░░   14.66 % 
+Antigravity-Cli          257 lines           ██░░░░░░░░░░░░░░░░░░░░░░░   09.71 % 
+Sonnet                   21 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   00.79 % 
+Opencode-Cli             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+
+🔎 AI Coding Insights:
+🤖 AI-Driven — 86.17% of written lines came from AI
+📄 Detailed Prompter — average 864 characters per prompt
+🔁 Iterative Prompter — average 4 prompts per session
+🚀 High AI Trust — 13.18% of changed lines were hand-edited
+```
+
 **I Mostly Code in Dart** 
 
 ```text
@@ -87,5 +115,5 @@ Jupyter Notebook         1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 2026-07-27 @14:40:59 UTC
+ Last Updated on 2026-07-27 @17:48:33 UTC
 <!--END_SECTION:waka-->
