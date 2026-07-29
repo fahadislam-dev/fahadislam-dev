@@ -30,7 +30,7 @@
 ⚡ Here are my WakaTime statistics:
 
 <!--START_SECTION:waka-->
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-51%20hrs%2053%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-55%20hrs%2026%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-5.87%20million%20lines%20of%20code-blue?style=flat)
 
@@ -59,45 +59,46 @@ Sunday                   2297 commits        ████░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Other                    23 hrs 15 mins      ████████████████░░░░░░░░░   62.72 % 
-Dart                     11 hrs 53 mins      ████████░░░░░░░░░░░░░░░░░   32.05 % 
+Other                    18 hrs 12 mins      ████████████░░░░░░░░░░░░░   49.14 % 
+Dart                     16 hrs 56 mins      ███████████░░░░░░░░░░░░░░   45.70 % 
 XML                      57 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.58 % 
-Kotlin                   28 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.29 % 
-YAML                     15 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.69 % 
+Kotlin                   32 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.48 % 
+YAML                     20 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.94 % 
 
 🔥 Editors: 
-Chrome                   24 hrs 13 mins      ████████████████░░░░░░░░░   65.34 % 
-VS Code                  7 hrs 49 mins       █████░░░░░░░░░░░░░░░░░░░░   21.11 % 
-Antigravity CLI          3 hrs 43 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.03 % 
-Android Studio           1 hr 10 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.15 % 
+Chrome                   19 hrs 7 mins       █████████████░░░░░░░░░░░░   51.63 % 
+VS Code                  13 hrs 33 mins      █████████░░░░░░░░░░░░░░░░   36.57 % 
+Antigravity CLI          4 hrs 4 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.99 % 
+Android Studio           8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.40 % 
 Notes                    8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.37 % 
 
 💻 Operating System: 
-Mac                      37 hrs 5 mins       █████████████████████████   100.00 % 
+Mac                      37 hrs 3 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 10 hrs 18 mins (27.81%)
+⏱ AI Coding Time: 12 hrs 50 mins (34.66%)
 
-✍️ 2,240 lines written by AI, 437 lines written by hand (83.68% AI-written)
+✍️ 2,356 lines written by AI, 871 lines written by hand (73.01% AI-written)
 
-🔤 464,657 Input Tokens, 41,801 Output Tokens
+🔤 523,632 Input Tokens, 22,968 Output Tokens
 
-💵 $2.02 Estimated AI Cost This Week
+💵 $1.79 Estimated AI Cost This Week
 
-🧠 40 AI Sessions, 185 AI Prompts
+🧠 38 AI Sessions, 189 AI Prompts
 
-Gemini                   2,254 lines         █████████████████████░░░░   85.09 % 
-Deepseek                 395 lines           ████░░░░░░░░░░░░░░░░░░░░░   14.91 % 
+Gemini                   2,261 lines         ██████████████████████░░░   87.47 % 
+Deepseek                 222 lines           ██░░░░░░░░░░░░░░░░░░░░░░░   08.59 % 
+Sonnet                   102 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   03.95 % 
 Opencode-Cli             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 83.68% of written lines came from AI
-📄 Detailed Prompter — average 805 characters per prompt
+🤖 AI-Driven — 73.01% of written lines came from AI
+📄 Detailed Prompter — average 836 characters per prompt
 🔁 Iterative Prompter — average 5 prompts per session
-🚀 High AI Trust — 16.33% of changed lines were hand-edited
+🚀 High AI Trust — 31.7% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Dart** 
@@ -113,5 +114,5 @@ Jupyter Notebook         1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 2026-07-28 @21:15:04 UTC
+ Last Updated on 2026-07-29 @02:44:27 UTC
 <!--END_SECTION:waka-->
