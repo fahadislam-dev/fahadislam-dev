@@ -37,21 +37,21 @@
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                2485 commits        █████░░░░░░░░░░░░░░░░░░░░   18.12 % 
-🌆 Daytime                8228 commits        ███████████████░░░░░░░░░░   60.00 % 
-🌃 Evening                2851 commits        █████░░░░░░░░░░░░░░░░░░░░   20.79 % 
-🌙 Night                  150 commits         ░░░░░░░░░░░░░░░░░░░░░░░░░   01.09 % 
+🌞 Morning                2485 commits        █████░░░░░░░░░░░░░░░░░░░░   18.11 % 
+🌆 Daytime                8228 commits        ███████████████░░░░░░░░░░   59.98 % 
+🌃 Evening                2851 commits        █████░░░░░░░░░░░░░░░░░░░░   20.78 % 
+🌙 Night                  154 commits         ░░░░░░░░░░░░░░░░░░░░░░░░░   01.12 % 
 ```
 📅 **I'm Most Productive on Tuesday** 
 
 ```text
 Monday                   2439 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.78 % 
-Tuesday                  2663 commits        █████░░░░░░░░░░░░░░░░░░░░   19.42 % 
+Tuesday                  2663 commits        █████░░░░░░░░░░░░░░░░░░░░   19.41 % 
 Wednesday                2594 commits        █████░░░░░░░░░░░░░░░░░░░░   18.91 % 
-Thursday                 2274 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.58 % 
+Thursday                 2278 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.61 % 
 Friday                   102 commits         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.74 % 
-Saturday                 1312 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   09.57 % 
-Sunday                   2330 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.99 % 
+Saturday                 1312 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   09.56 % 
+Sunday                   2330 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.98 % 
 ```
 
 
@@ -59,47 +59,47 @@ Sunday                   2330 commits        ████░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Dart                     26 hrs 27 mins      ███████████████░░░░░░░░░░   59.45 % 
-Other                    14 hrs 16 mins      ████████░░░░░░░░░░░░░░░░░   32.09 % 
-Git                      1 hr 1 min          █░░░░░░░░░░░░░░░░░░░░░░░░   02.29 % 
-HTTP Request             48 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.81 % 
-YAML                     40 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.53 % 
+Dart                     19 hrs 3 mins       ██████████████░░░░░░░░░░░   54.06 % 
+Other                    12 hrs 59 mins      █████████░░░░░░░░░░░░░░░░   36.86 % 
+Git                      1 hr 1 min          █░░░░░░░░░░░░░░░░░░░░░░░░   02.89 % 
+YAML                     32 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.55 % 
+HTTP Request             29 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.41 % 
 
 🔥 Editors: 
-VS Code                  22 hrs 59 mins      █████████████░░░░░░░░░░░░   51.64 % 
-Chrome                   15 hrs              ████████░░░░░░░░░░░░░░░░░   33.72 % 
-Claude Code              2 hrs 50 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.40 % 
-Antigravity CLI          1 hr 37 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.66 % 
-Postman                  1 hr 26 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.25 % 
+VS Code                  16 hrs 12 mins      ███████████░░░░░░░░░░░░░░   45.98 % 
+Chrome                   13 hrs 20 mins      █████████░░░░░░░░░░░░░░░░   37.84 % 
+Claude Code              2 hrs 50 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.08 % 
+Antigravity CLI          1 hr 8 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.23 % 
+Postman                  1 hr 7 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.21 % 
 
 💻 Operating System: 
-Mac                      44 hrs 30 mins      █████████████████████████   100.00 % 
+Mac                      35 hrs 15 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 16 hrs 26 mins (36.94%)
+⏱ AI Coding Time: 13 hrs 23 mins (37.99%)
 
-✍️ 12,258 lines written by AI, 1,828 lines written by hand (87.02% AI-written)
+✍️ 11,829 lines written by AI, 1,008 lines written by hand (92.15% AI-written)
 
-🔤 68,858,130 Input Tokens, 698,979 Output Tokens
+🔤 67,142,495 Input Tokens, 640,285 Output Tokens
 
-💵 $310.19 Estimated AI Cost This Week
+💵 $304.16 Estimated AI Cost This Week
 
-🧠 46 AI Sessions, 250 AI Prompts
+🧠 39 AI Sessions, 196 AI Prompts
 
-Opus                     6,674 lines         ████████████░░░░░░░░░░░░░   48.96 % 
-Fable                    2,587 lines         █████░░░░░░░░░░░░░░░░░░░░   18.98 % 
-Sonnet                   2,185 lines         ████░░░░░░░░░░░░░░░░░░░░░   16.03 % 
-Deepseek                 1,469 lines         ███░░░░░░░░░░░░░░░░░░░░░░   10.78 % 
-Gemini                   717 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   05.26 % 
+Opus                     6,674 lines         █████████████░░░░░░░░░░░░   51.08 % 
+Fable                    2,587 lines         █████░░░░░░░░░░░░░░░░░░░░   19.80 % 
+Sonnet                   2,013 lines         ████░░░░░░░░░░░░░░░░░░░░░   15.41 % 
+Deepseek                 1,076 lines         ██░░░░░░░░░░░░░░░░░░░░░░░   08.23 % 
+Gemini                   717 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   05.49 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 87.02% of written lines came from AI
-📚 Verbose Prompter — average 2,490 characters per prompt
+🤖 AI-Driven — 92.15% of written lines came from AI
+📚 Verbose Prompter — average 2,267 characters per prompt
 🔁 Iterative Prompter — average 5 prompts per session
-🚀 High AI Trust — 19.92% of changed lines were hand-edited
+🚀 High AI Trust — 10.36% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Dart** 
@@ -115,5 +115,5 @@ Jupyter Notebook         1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 2026-08-05 @21:15:56 UTC
+ Last Updated on 2026-08-06 @02:39:42 UTC
 <!--END_SECTION:waka-->
