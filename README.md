@@ -30,7 +30,7 @@
 ⚡ Here are my WakaTime statistics:
 
 <!--START_SECTION:waka-->
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-77%20hrs%2041%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-81%20hrs%2040%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-6.21%20million%20lines%20of%20code-blue?style=flat)
 
@@ -59,47 +59,47 @@ Sunday                   2363 commits        ████░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Dart                     18 hrs 46 mins      █████████████░░░░░░░░░░░░   52.71 % 
-Other                    12 hrs 5 mins       ████████░░░░░░░░░░░░░░░░░   33.93 % 
-YAML                     1 hr 23 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.91 % 
-Git                      1 hr 1 min          █░░░░░░░░░░░░░░░░░░░░░░░░   02.86 % 
-Markdown                 45 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.13 % 
+Dart                     19 hrs 11 mins      ██████████████░░░░░░░░░░░   55.33 % 
+Other                    11 hrs 16 mins      ████████░░░░░░░░░░░░░░░░░   32.53 % 
+YAML                     1 hr 14 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.58 % 
+Git                      1 hr 1 min          █░░░░░░░░░░░░░░░░░░░░░░░░   02.94 % 
+Markdown                 54 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.60 % 
 
 🔥 Editors: 
-VS Code                  15 hrs 44 mins      ███████████░░░░░░░░░░░░░░   44.17 % 
-Chrome                   13 hrs 3 mins       █████████░░░░░░░░░░░░░░░░   36.64 % 
-Claude Code              3 hrs 30 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.86 % 
-Antigravity CLI          2 hrs               █░░░░░░░░░░░░░░░░░░░░░░░░   05.65 % 
-Android Studio           43 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.06 % 
+VS Code                  14 hrs 4 mins       ██████████░░░░░░░░░░░░░░░   40.60 % 
+Chrome                   12 hrs 50 mins      █████████░░░░░░░░░░░░░░░░   37.04 % 
+Claude Code              4 hrs 38 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.38 % 
+Antigravity CLI          2 hrs 20 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.76 % 
+Android Studio           40 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.93 % 
 
 💻 Operating System: 
-Mac                      35 hrs 37 mins      █████████████████████████   100.00 % 
+Mac                      34 hrs 40 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 15 hrs 32 mins (43.64%)
+⏱ AI Coding Time: 15 hrs 19 mins (44.18%)
 
-✍️ 12,378 lines written by AI, 845 lines written by hand (93.61% AI-written)
+✍️ 11,881 lines written by AI, 785 lines written by hand (93.8% AI-written)
 
-🔤 72,882,232 Input Tokens, 701,989 Output Tokens
+🔤 51,159,857 Input Tokens, 709,418 Output Tokens
 
-💵 $336.06 Estimated AI Cost This Week
+💵 $320.45 Estimated AI Cost This Week
 
-🧠 53 AI Sessions, 286 AI Prompts
+🧠 41 AI Sessions, 263 AI Prompts
 
-Opus                     8,188 lines         ███████████████░░░░░░░░░░   59.84 % 
-Fable                    2,587 lines         █████░░░░░░░░░░░░░░░░░░░░   18.91 % 
-Sonnet                   2,013 lines         ████░░░░░░░░░░░░░░░░░░░░░   14.71 % 
-Gemini                   558 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   04.08 % 
-Deepseek                 338 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   02.47 % 
+Opus                     12,006 lines        ████████████████████████░   94.02 % 
+Gemini                   566 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   04.43 % 
+Deepseek                 197 lines           ░░░░░░░░░░░░░░░░░░░░░░░░░   01.54 % 
+Sonnet                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 93.61% of written lines came from AI
-📄 Detailed Prompter — average 1,285 characters per prompt
-🔁 Iterative Prompter — average 5 prompts per session
-🚀 High AI Trust — 17.46% of changed lines were hand-edited
+🤖 AI-Driven — 93.8% of written lines came from AI
+📄 Detailed Prompter — average 1,234 characters per prompt
+🔁 Iterative Prompter — average 6 prompts per session
+🚀 High AI Trust — 17.44% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Dart** 
@@ -115,5 +115,5 @@ Jupyter Notebook         1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 2026-08-10 @20:49:40 UTC
+ Last Updated on 2026-08-11 @01:51:57 UTC
 <!--END_SECTION:waka-->
