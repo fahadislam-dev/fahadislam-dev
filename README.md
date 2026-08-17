@@ -30,7 +30,7 @@
 ⚡ Here are my WakaTime statistics:
 
 <!--START_SECTION:waka-->
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-86%20hrs%205%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-91%20hrs%2049%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-6.24%20million%20lines%20of%20code-blue?style=flat)
 
@@ -59,47 +59,47 @@ Sunday                   2378 commits        ████░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Other                    21 hrs 2 mins       ████████████░░░░░░░░░░░░░   48.92 % 
-Dart                     19 hrs 34 mins      ███████████░░░░░░░░░░░░░░   45.49 % 
-YAML                     46 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.79 % 
-Markdown                 26 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.05 % 
+Dart                     23 hrs 13 mins      █████████████░░░░░░░░░░░░   53.81 % 
+Other                    17 hrs 39 mins      ██████████░░░░░░░░░░░░░░░   40.90 % 
+Markdown                 43 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.68 % 
+YAML                     30 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.17 % 
 HTTP Request             20 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.80 % 
 
 🔥 Editors: 
-Chrome                   22 hrs 16 mins      █████████████░░░░░░░░░░░░   51.77 % 
-VS Code                  15 hrs 10 mins      █████████░░░░░░░░░░░░░░░░   35.27 % 
-Claude Code              2 hrs 29 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.79 % 
-Antigravity CLI          2 hrs 4 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.81 % 
-Android Studio           28 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.09 % 
+Chrome                   18 hrs 42 mins      ███████████░░░░░░░░░░░░░░   43.36 % 
+VS Code                  16 hrs 24 mins      ██████████░░░░░░░░░░░░░░░   38.03 % 
+Claude Code              4 hrs 39 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.79 % 
+Antigravity CLI          2 hrs 48 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.50 % 
+Postman                  23 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.91 % 
 
 💻 Operating System: 
-Mac                      43 hrs 1 min        █████████████████████████   100.00 % 
+Mac                      43 hrs 9 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 10 hrs 31 mins (24.48%)
+⏱ AI Coding Time: 14 hrs 10 mins (32.85%)
 
-✍️ 5,883 lines written by AI, 548 lines written by hand (91.48% AI-written)
+✍️ 19,648 lines written by AI, 786 lines written by hand (96.15% AI-written)
 
-🔤 587,429 Input Tokens, 272,188 Output Tokens
+🔤 1,383,518 Input Tokens, 682,831 Output Tokens
 
-💵 $37.51 Estimated AI Cost This Week
+💵 $77.47 Estimated AI Cost This Week
 
-🧠 30 AI Sessions, 170 AI Prompts
+🧠 26 AI Sessions, 225 AI Prompts
 
-Opus                     5,414 lines         ██████████████████████░░░   88.03 % 
-Gemini                   728 lines           ███░░░░░░░░░░░░░░░░░░░░░░   11.84 % 
-Deepseek                 8 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 % 
+Opus                     18,727 lines        ███████████████████████░░   92.06 % 
+Gemini                   1,556 lines         ██░░░░░░░░░░░░░░░░░░░░░░░   07.65 % 
+Deepseek                 60 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   00.29 % 
 Opencode-Cli             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Haiku                    0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 91.48% of written lines came from AI
-📄 Detailed Prompter — average 981 characters per prompt
-🔁 Iterative Prompter — average 6 prompts per session
-🚀 High AI Trust — 14.05% of changed lines were hand-edited
+🤖 AI-Driven — 96.15% of written lines came from AI
+📚 Verbose Prompter — average 1,915 characters per prompt
+🔁 Iterative Prompter — average 9 prompts per session
+🚀 High AI Trust — 9.25% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Dart** 
@@ -115,5 +115,5 @@ Jupyter Notebook         1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 2026-08-16 @20:26:46 UTC
+ Last Updated on 2026-08-17 @01:21:41 UTC
 <!--END_SECTION:waka-->
