@@ -30,7 +30,7 @@
 ⚡ Here are my WakaTime statistics:
 
 <!--START_SECTION:waka-->
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-101%20hrs%206%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-105%20hrs%2020%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-6.29%20million%20lines%20of%20code-blue?style=flat)
 
@@ -59,47 +59,47 @@ Sunday                   2378 commits        ████░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Dart                     23 hrs 38 mins      █████████████░░░░░░░░░░░░   53.34 % 
-Other                    17 hrs 12 mins      ██████████░░░░░░░░░░░░░░░   38.84 % 
-Markdown                 56 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.14 % 
-YAML                     36 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.39 % 
-Kotlin                   31 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.20 % 
+Dart                     26 hrs 57 mins      ████████████████░░░░░░░░░   65.75 % 
+Other                    10 hrs 27 mins      ██████░░░░░░░░░░░░░░░░░░░   25.52 % 
+Markdown                 54 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.23 % 
+YAML                     45 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.84 % 
+Kotlin                   29 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.19 % 
 
 🔥 Editors: 
-Chrome                   17 hrs 50 mins      ██████████░░░░░░░░░░░░░░░   40.23 % 
-VS Code                  16 hrs 24 mins      █████████░░░░░░░░░░░░░░░░   37.01 % 
-Antigravity CLI          4 hrs 57 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.20 % 
-Claude Code              4 hrs 22 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.88 % 
-Postman                  33 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.26 % 
+VS Code                  17 hrs 52 mins      ███████████░░░░░░░░░░░░░░   43.57 % 
+Chrome                   11 hrs 8 mins       ███████░░░░░░░░░░░░░░░░░░   27.18 % 
+Claude Code              6 hrs 11 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.12 % 
+Antigravity CLI          5 hrs 4 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.37 % 
+Postman                  41 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.70 % 
 
 💻 Operating System: 
-Mac                      44 hrs 19 mins      █████████████████████████   100.00 % 
+Mac                      41 hrs              █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 17 hrs 11 mins (38.79%)
+⏱ AI Coding Time: 20 hrs 43 mins (50.55%)
 
-✍️ 19,515 lines written by AI, 559 lines written by hand (97.22% AI-written)
+✍️ 19,846 lines written by AI, 620 lines written by hand (96.97% AI-written)
 
-🔤 1,896,203 Input Tokens, 757,063 Output Tokens
+🔤 2,726,437 Input Tokens, 1,047,255 Output Tokens
 
-💵 $76.39 Estimated AI Cost This Week
+💵 $104.77 Estimated AI Cost This Week
 
-🧠 30 AI Sessions, 374 AI Prompts
+🧠 35 AI Sessions, 431 AI Prompts
 
-Opus                     16,419 lines        ████████████████████░░░░░   80.80 % 
-Gemini                   3,842 lines         █████░░░░░░░░░░░░░░░░░░░░   18.91 % 
-Deepseek                 60 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   00.30 % 
+Opus                     16,878 lines        ████████████████████░░░░░   81.56 % 
+Gemini                   3,756 lines         █████░░░░░░░░░░░░░░░░░░░░   18.15 % 
+Deepseek                 60 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   00.29 % 
 Opencode-Cli             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 Haiku                    0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 97.22% of written lines came from AI
-📄 Detailed Prompter — average 1,320 characters per prompt
+🤖 AI-Driven — 96.97% of written lines came from AI
+📄 Detailed Prompter — average 1,312 characters per prompt
 🔁 Iterative Prompter — average 12 prompts per session
-🚀 High AI Trust — 9.23% of changed lines were hand-edited
+🚀 High AI Trust — 9.17% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Dart** 
@@ -115,5 +115,5 @@ Jupyter Notebook         1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 2026-08-19 @20:33:18 UTC
+ Last Updated on 2026-08-20 @01:20:46 UTC
 <!--END_SECTION:waka-->
