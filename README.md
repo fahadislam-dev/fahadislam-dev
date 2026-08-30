@@ -30,7 +30,7 @@
 ⚡ Here are my WakaTime statistics:
 
 <!--START_SECTION:waka-->
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-120%20hrs%205%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-123%20hrs%2017%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-6.76%20million%20lines%20of%20code-blue?style=flat)
 
@@ -59,47 +59,47 @@ Sunday                   2561 commits        ████░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Dart                     24 hrs 2 mins       ████████████████░░░░░░░░░   64.99 % 
-Other                    12 hrs 10 mins      ████████░░░░░░░░░░░░░░░░░   32.90 % 
-JSON                     14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.64 % 
-YAML                     14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.64 % 
-Python                   12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.57 % 
+Dart                     28 hrs 10 mins      ███████████████░░░░░░░░░░   61.36 % 
+Other                    16 hrs 48 mins      █████████░░░░░░░░░░░░░░░░   36.61 % 
+JSON                     14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.52 % 
+YAML                     14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.51 % 
+Python                   12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.46 % 
 
 🔥 Editors: 
-VS Code                  17 hrs 26 mins      ████████████░░░░░░░░░░░░░   47.15 % 
-Chrome                   12 hrs 34 mins      ████████░░░░░░░░░░░░░░░░░   33.99 % 
-Claude Code              5 hrs 38 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.27 % 
-Android Studio           34 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.55 % 
-Antigravity CLI          24 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.11 % 
+VS Code                  19 hrs 56 mins      ███████████░░░░░░░░░░░░░░   43.46 % 
+Chrome                   17 hrs 37 mins      ██████████░░░░░░░░░░░░░░░   38.38 % 
+Claude Code              6 hrs 49 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.88 % 
+Android Studio           34 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.25 % 
+Antigravity CLI          29 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.08 % 
 
 💻 Operating System: 
-Mac                      36 hrs 59 mins      █████████████████████████   100.00 % 
+Mac                      45 hrs 54 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 13 hrs 1 min (35.2%)
+⏱ AI Coding Time: 16 hrs 12 mins (35.31%)
 
-✍️ 1,664 lines written by AI, 555 lines written by hand (74.99% AI-written)
+✍️ 2,786 lines written by AI, 605 lines written by hand (82.16% AI-written)
 
-🔤 3,646,333 Input Tokens, 584,065 Output Tokens
+🔤 4,144,810 Input Tokens, 787,481 Output Tokens
 
-💵 $68.80 Estimated AI Cost This Week
+💵 $88.84 Estimated AI Cost This Week
 
-🧠 27 AI Sessions, 207 AI Prompts
+🧠 31 AI Sessions, 248 AI Prompts
 
-Opus                     1,882 lines         █████████████████████████   100.00 % 
+Opus                     3,072 lines         █████████████████████████   100.00 % 
 Opencode-Cli             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 Haiku                    0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 Gemini                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 74.99% of written lines came from AI
-📚 Verbose Prompter — average 152,090 characters per prompt
+🤖 AI-Driven — 82.16% of written lines came from AI
+📚 Verbose Prompter — average 127,043 characters per prompt
 🔁 Iterative Prompter — average 8 prompts per session
-🚀 High AI Trust — 33.78% of changed lines were hand-edited
+🚀 High AI Trust — 25.38% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Dart** 
@@ -115,5 +115,5 @@ Jupyter Notebook         1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 2026-08-29 @22:32:39 UTC
+ Last Updated on 2026-08-30 @04:06:16 UTC
 <!--END_SECTION:waka-->
