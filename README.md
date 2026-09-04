@@ -34,6 +34,74 @@
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-6.78%20million%20lines%20of%20code-blue?style=flat)
 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                2714 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.91 % 
+🌆 Daytime                8992 commits        ███████████████░░░░░░░░░░   59.35 % 
+🌃 Evening                3270 commits        █████░░░░░░░░░░░░░░░░░░░░   21.58 % 
+🌙 Night                  175 commits         ░░░░░░░░░░░░░░░░░░░░░░░░░   01.16 % 
+```
+📅 **I'm Most Productive on Tuesday** 
+
+```text
+Monday                   2703 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.84 % 
+Tuesday                  2969 commits        █████░░░░░░░░░░░░░░░░░░░░   19.60 % 
+Wednesday                2829 commits        █████░░░░░░░░░░░░░░░░░░░░   18.67 % 
+Thursday                 2562 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.91 % 
+Friday                   119 commits         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.79 % 
+Saturday                 1396 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   09.21 % 
+Sunday                   2573 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.98 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+💬 Programming Languages: 
+Dart                     29 hrs 1 min        ██████████████░░░░░░░░░░░   54.71 % 
+Other                    15 hrs 20 mins      ███████░░░░░░░░░░░░░░░░░░   28.92 % 
+Markdown                 2 hrs 50 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.35 % 
+Text                     2 hrs 14 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   04.21 % 
+YAML                     1 hr 39 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.14 % 
+
+🔥 Editors: 
+VS Code                  20 hrs 6 mins       █████████░░░░░░░░░░░░░░░░   37.89 % 
+Chrome                   17 hrs 7 mins       ████████░░░░░░░░░░░░░░░░░   32.29 % 
+Claude Code              13 hrs 35 mins      ██████░░░░░░░░░░░░░░░░░░░   25.62 % 
+Antigravity CLI          2 hrs               █░░░░░░░░░░░░░░░░░░░░░░░░   03.78 % 
+Opencode Cli             6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.21 % 
+
+💻 Operating System: 
+Mac                      53 hrs 3 mins       █████████████████████████   100.00 % 
+```
+
+🤖 **AI Coding This Week** 
+
+```text
+⏱ AI Coding Time: 28 hrs 46 mins (54.24%)
+
+✍️ 15,153 lines written by AI, 796 lines written by hand (95.01% AI-written)
+
+🔤 9,663,699 Input Tokens, 1,956,751 Output Tokens
+
+💵 $326.03 Estimated AI Cost This Week
+
+🧠 46 AI Sessions, 483 AI Prompts
+
+Opus                     14,810 lines        ██████████████████████░░░   86.65 % 
+Sonnet                   2,282 lines         ███░░░░░░░░░░░░░░░░░░░░░░   13.35 % 
+Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Haiku                    0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Gemini                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+
+🔎 AI Coding Insights:
+🤖 AI-Driven — 95.01% of written lines came from AI
+📄 Detailed Prompter — average 904 characters per prompt
+🔁 Iterative Prompter — average 10 prompts per session
+🚀 High AI Trust — 10.09% of changed lines were hand-edited
+```
+
 **I Mostly Code in Dart** 
 
 ```text
@@ -47,5 +115,5 @@ Jupyter Notebook         1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 2026-09-03 @22:28:29 UTC
+ Last Updated on 2026-09-04 @03:21:32 UTC
 <!--END_SECTION:waka-->
