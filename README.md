@@ -30,7 +30,7 @@
 ⚡ Here are my WakaTime statistics:
 
 <!--START_SECTION:waka-->
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-161%20hrs%2046%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-167%20hrs%2022%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-6.82%20million%20lines%20of%20code-blue?style=flat)
 
@@ -59,45 +59,46 @@ Sunday                   2601 commits        ████░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Dart                     9 hrs 3 mins        █████████████░░░░░░░░░░░░   51.01 % 
-Other                    7 hrs 29 mins       ███████████░░░░░░░░░░░░░░   42.21 % 
-Markdown                 27 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.54 % 
-YAML                     22 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.10 % 
-Swift                    9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.87 % 
+Dart                     10 hrs 29 mins      ██████████████░░░░░░░░░░░   55.81 % 
+Other                    4 hrs 7 mins        █████░░░░░░░░░░░░░░░░░░░░   21.98 % 
+YAML                     2 hrs 11 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.62 % 
+Markdown                 1 hr 22 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.29 % 
+HTTP Request             13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.24 % 
 
 🔥 Editors: 
-Chrome                   7 hrs 49 mins       ███████████░░░░░░░░░░░░░░   44.06 % 
-VS Code                  5 hrs 47 mins       ████████░░░░░░░░░░░░░░░░░   32.61 % 
-Claude Code              3 hrs 9 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.80 % 
-Antigravity CLI          53 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.98 % 
-Android Studio           5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.55 % 
+VS Code                  10 hrs 13 mins      ██████████████░░░░░░░░░░░   54.43 % 
+Chrome                   3 hrs 58 mins       █████░░░░░░░░░░░░░░░░░░░░   21.18 % 
+Claude Code              3 hrs 1 min         ████░░░░░░░░░░░░░░░░░░░░░   16.08 % 
+Antigravity CLI          58 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.19 % 
+Postman                  14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.25 % 
 
 💻 Operating System: 
-Mac                      17 hrs 45 mins      █████████████████████████   100.00 % 
+Mac                      18 hrs 47 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 8 hrs 1 min (45.19%)
+⏱ AI Coding Time: 10 hrs 14 mins (54.47%)
 
-✍️ 4,652 lines written by AI, 759 lines written by hand (85.97% AI-written)
+✍️ 1,189 lines written by AI, 762 lines written by hand (60.94% AI-written)
 
-🔤 2,940,544 Input Tokens, 606,789 Output Tokens
+🔤 1,631,760 Input Tokens, 339,745 Output Tokens
 
-💵 $118.41 Estimated AI Cost This Week
+💵 $37.61 Estimated AI Cost This Week
 
-🧠 8 AI Sessions, 120 AI Prompts
+🧠 11 AI Sessions, 105 AI Prompts
 
-Opus                     4,789 lines         ████████████████████░░░░░   80.15 % 
-Sonnet                   1,186 lines         █████░░░░░░░░░░░░░░░░░░░░   19.85 % 
+Opus                     1,181 lines         ██████████████░░░░░░░░░░░   54.08 % 
+Sonnet                   1,003 lines         ███████████░░░░░░░░░░░░░░   45.92 % 
+Fable                    0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 85.97% of written lines came from AI
-📝 Concise Prompter — average 323 characters per prompt
-🔁 Iterative Prompter — average 15 prompts per session
-🚀 High AI Trust — 14.05% of changed lines were hand-edited
+⚖️ Balanced with AI — 60.94% of written lines came from AI
+📝 Concise Prompter — average 202 characters per prompt
+🔁 Iterative Prompter — average 10 prompts per session
+🚀 High AI Trust — 29.68% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Dart** 
@@ -113,5 +114,5 @@ Kotlin                   1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 2026-09-14 @23:05:58 UTC
+ Last Updated on 2026-09-15 @03:50:44 UTC
 <!--END_SECTION:waka-->
