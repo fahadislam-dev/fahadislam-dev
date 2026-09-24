@@ -30,7 +30,7 @@
 ⚡ Here are my WakaTime statistics:
 
 <!--START_SECTION:waka-->
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-190%20hrs%2025%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-191%20hrs%2030%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-7.16%20million%20lines%20of%20code-blue?style=flat)
 
@@ -59,47 +59,46 @@ Sunday                   2778 commits        ████░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Dart                     25 hrs 44 mins      ███████████████░░░░░░░░░░   59.24 % 
-Other                    15 hrs 26 mins      █████████░░░░░░░░░░░░░░░░   35.55 % 
-Markdown                 1 hr 39 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.80 % 
-YAML                     15 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.60 % 
-Text                     8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.32 % 
+Dart                     24 hrs 22 mins      ██████████████░░░░░░░░░░░   55.59 % 
+Other                    17 hrs 38 mins      ██████████░░░░░░░░░░░░░░░   40.23 % 
+Markdown                 1 hr 8 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   02.62 % 
+YAML                     19 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.76 % 
+JSON                     8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.32 % 
 
 🔥 Editors: 
-VS Code                  19 hrs 5 mins       ███████████░░░░░░░░░░░░░░   43.95 % 
-Chrome                   17 hrs 38 mins      ██████████░░░░░░░░░░░░░░░   40.61 % 
-Claude Code              4 hrs 4 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.38 % 
-Antigravity CLI          2 hrs 30 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.79 % 
-Android Studio           3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.15 % 
+Chrome                   19 hrs 20 mins      ███████████░░░░░░░░░░░░░░   44.10 % 
+VS Code                  17 hrs 41 mins      ██████████░░░░░░░░░░░░░░░   40.35 % 
+Claude Code              4 hrs 35 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.47 % 
+Antigravity CLI          2 hrs 1 min         █░░░░░░░░░░░░░░░░░░░░░░░░   04.62 % 
+Android Studio           8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.34 % 
 
 💻 Operating System: 
-Mac                      43 hrs 27 mins      █████████████████████████   100.00 % 
+Mac                      43 hrs 51 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 18 hrs 17 mins (42.08%)
+⏱ AI Coding Time: 15 hrs 3 mins (34.33%)
 
-✍️ 2,455 lines written by AI, 819 lines written by hand (74.98% AI-written)
+✍️ 2,483 lines written by AI, 785 lines written by hand (75.98% AI-written)
 
-🔤 7,416,533 Input Tokens, 713,300 Output Tokens
+🔤 4,818,969 Input Tokens, 727,523 Output Tokens
 
-💵 $125.11 Estimated AI Cost This Week
+💵 $91.70 Estimated AI Cost This Week
 
-🧠 27 AI Sessions, 424 AI Prompts
+🧠 22 AI Sessions, 346 AI Prompts
 
-Sonnet                   1,201 lines         ██████████░░░░░░░░░░░░░░░   41.23 % 
-Opus                     1,055 lines         █████████░░░░░░░░░░░░░░░░   36.22 % 
-Fable                    572 lines           █████░░░░░░░░░░░░░░░░░░░░   19.64 % 
-Nemotron                 85 lines            █░░░░░░░░░░░░░░░░░░░░░░░░   02.92 % 
-Deepseek                 0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Sonnet                   1,270 lines         ███████████░░░░░░░░░░░░░░   42.83 % 
+Opus                     1,055 lines         █████████░░░░░░░░░░░░░░░░   35.58 % 
+Fable                    640 lines           █████░░░░░░░░░░░░░░░░░░░░   21.59 % 
+Haiku                    0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 74.98% of written lines came from AI
-📄 Detailed Prompter — average 1,175 characters per prompt
+🤖 AI-Driven — 75.98% of written lines came from AI
+📄 Detailed Prompter — average 1,056 characters per prompt
 🔁 Iterative Prompter — average 16 prompts per session
-🚀 High AI Trust — 35.3% of changed lines were hand-edited
+🚀 High AI Trust — 33.67% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Dart** 
@@ -115,5 +114,5 @@ Kotlin                   1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 2026-09-23 @22:52:45 UTC
+ Last Updated on 2026-09-24 @03:36:36 UTC
 <!--END_SECTION:waka-->
