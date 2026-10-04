@@ -59,39 +59,22 @@ Sunday                   2778 commits        ████░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Dart                     1 hr 2 mins         ██████████████████████░░░   88.50 % 
-YAML                     7 mins              ███░░░░░░░░░░░░░░░░░░░░░░   10.82 % 
-Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.67 % 
+Dart                     50 mins             █████████████████████████   99.06 % 
+Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.94 % 
 
 🔥 Editors: 
-VS Code                  1 hr                █████████████████████░░░░   85.88 % 
-Claude Code              9 mins              ███░░░░░░░░░░░░░░░░░░░░░░   13.44 % 
-Chrome                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.68 % 
+VS Code                  43 mins             ██████████████████████░░░   87.52 % 
+Claude Code              5 mins              ███░░░░░░░░░░░░░░░░░░░░░░   11.53 % 
+Chrome                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.95 % 
 
 💻 Operating System: 
-Mac                      1 hr 10 mins        █████████████████████████   100.00 % 
+Mac                      50 mins             █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 4 mins (6.32%)
-
-✍️ 0 lines written by AI, 0 lines written by hand (0% AI-written)
-
-🔤 37,329 Input Tokens, 1,180 Output Tokens
-
-💵 $0.27 Estimated AI Cost This Week
-
-🧠 1 AI Sessions, 1 AI Prompts
-
-Opus                     0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-
-🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 0% of written lines came from AI
-📝 Concise Prompter — average 258 characters per prompt
-🎯 One-Shot Prompter — average 1 prompts per session
-🔍 Hands-On Reviewer — 100.0% of changed lines were hand-edited
+No AI Coding Activity Tracked This Week
 ```
 
 **I Mostly Code in Dart** 
@@ -107,5 +90,5 @@ Kotlin                   1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 2026-10-04 @19:21:36 UTC
+ Last Updated on 2026-10-04 @22:55:38 UTC
 <!--END_SECTION:waka-->
