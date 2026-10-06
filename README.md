@@ -30,23 +30,23 @@
 ⚡ Here are my WakaTime statistics:
 
 <!--START_SECTION:waka-->
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-193%20hrs%2048%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-194%20hrs%2038%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-7.17%20million%20lines%20of%20code-blue?style=flat)
 
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                2916 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.93 % 
-🌆 Daytime                9582 commits        ███████████████░░░░░░░░░░   58.91 % 
+🌞 Morning                2917 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.93 % 
+🌆 Daytime                9584 commits        ███████████████░░░░░░░░░░   58.91 % 
 🌃 Evening                3592 commits        ██████░░░░░░░░░░░░░░░░░░░   22.08 % 
 🌙 Night                  176 commits         ░░░░░░░░░░░░░░░░░░░░░░░░░   01.08 % 
 ```
 📅 **I'm Most Productive on Tuesday** 
 
 ```text
-Monday                   2895 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.80 % 
-Tuesday                  3195 commits        █████░░░░░░░░░░░░░░░░░░░░   19.64 % 
+Monday                   2895 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.79 % 
+Tuesday                  3198 commits        █████░░░░░░░░░░░░░░░░░░░░   19.66 % 
 Wednesday                3047 commits        █████░░░░░░░░░░░░░░░░░░░░   18.73 % 
 Thursday                 2801 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.22 % 
 Friday                   119 commits         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.73 % 
@@ -59,22 +59,43 @@ Sunday                   2778 commits        ████░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Dart                     50 mins             █████████████████████████   99.06 % 
-Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.94 % 
+Other                    4 hrs 6 mins        ███████████████░░░░░░░░░░   58.22 % 
+Dart                     2 hrs 25 mins       █████████░░░░░░░░░░░░░░░░   34.43 % 
+Markdown                 20 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.76 % 
+HTTP Request             10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.55 % 
+XML                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 % 
 
 🔥 Editors: 
-VS Code                  43 mins             ██████████████████████░░░   87.52 % 
-Claude Code              5 mins              ███░░░░░░░░░░░░░░░░░░░░░░   11.53 % 
-Chrome                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.95 % 
+Chrome                   4 hrs 23 mins       ████████████████░░░░░░░░░   62.45 % 
+VS Code                  1 hr 45 mins        ██████░░░░░░░░░░░░░░░░░░░   24.88 % 
+Claude Code              46 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.93 % 
+Postman                  7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.74 % 
 
 💻 Operating System: 
-Mac                      50 mins             █████████████████████████   100.00 % 
+Mac                      7 hrs 2 mins        █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-No AI Coding Activity Tracked This Week
+⏱ AI Coding Time: 49 mins (11.68%)
+
+✍️ 113 lines written by AI, 14 lines written by hand (88.98% AI-written)
+
+🔤 348,326 Input Tokens, 50,984 Output Tokens
+
+💵 $5.05 Estimated AI Cost This Week
+
+🧠 2 AI Sessions, 10 AI Prompts
+
+Opus                     116 lines           █████████████████████████   100.00 % 
+Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+
+🔎 AI Coding Insights:
+🤖 AI-Driven — 88.98% of written lines came from AI
+📝 Concise Prompter — average 135 characters per prompt
+🔁 Iterative Prompter — average 5 prompts per session
+🚀 High AI Trust — 15.94% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Dart** 
@@ -90,5 +111,5 @@ Kotlin                   1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 2026-10-06 @01:17:57 UTC
+ Last Updated on 2026-10-06 @11:10:23 UTC
 <!--END_SECTION:waka-->
