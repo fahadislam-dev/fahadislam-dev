@@ -59,26 +59,26 @@ Sunday                   2935 commits        ████░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Other                    21 hrs 17 mins      ██████████████████████░░░   88.74 % 
-Dart                     1 hr 35 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.63 % 
-YAML                     34 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.41 % 
-Markdown                 21 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.46 % 
-HTTP Request             10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.75 % 
+Other                    28 hrs 20 mins      ██████████████████████░░░   86.32 % 
+YAML                     2 hrs 21 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.21 % 
+Dart                     1 hr 35 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.85 % 
+Markdown                 21 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.07 % 
+HTTP Request             10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.55 % 
 
 🔥 Editors: 
-Chrome                   22 hrs 9 mins       ███████████████████████░░   92.40 % 
-VS Code                  55 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.88 % 
-Claude Code              46 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.21 % 
-Postman                  7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.51 % 
+Chrome                   30 hrs 59 mins      ████████████████████████░   94.44 % 
+VS Code                  55 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.84 % 
+Claude Code              46 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.35 % 
+Postman                  7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.37 % 
 
 💻 Operating System: 
-Mac                      23 hrs 59 mins      █████████████████████████   100.00 % 
+Mac                      32 hrs 49 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 49 mins (3.43%)
+⏱ AI Coding Time: 49 mins (2.51%)
 
 ✍️ 113 lines written by AI, 14 lines written by hand (88.98% AI-written)
 
@@ -111,5 +111,5 @@ Kotlin                   1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 2026-10-08 @21:12:05 UTC
+ Last Updated on 2026-10-09 @05:01:01 UTC
 <!--END_SECTION:waka-->
