@@ -30,7 +30,7 @@
 ⚡ Here are my WakaTime statistics:
 
 <!--START_SECTION:waka-->
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-222%20hrs%2034%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-224%20hrs%2032%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-8.98%20million%20lines%20of%20code-blue?style=flat)
 
@@ -59,46 +59,46 @@ Sunday                   2956 commits        ████░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Dart                     33 hrs 25 mins      ████████████████████░░░░░   79.10 % 
-HTTP Request             2 hrs 9 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.13 % 
-YAML                     1 hr 25 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.37 % 
-Kotlin                   1 hr 19 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.12 % 
-Markdown                 1 hr 9 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   02.73 % 
+Dart                     34 hrs 57 mins      █████████████████████░░░░   83.25 % 
+HTTP Request             1 hr 35 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.80 % 
+YAML                     1 hr 22 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.27 % 
+Kotlin                   1 hr 19 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.14 % 
+Markdown                 1 hr 6 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   02.63 % 
 
 🔥 Editors: 
-VS Code                  24 hrs 18 mins      ██████████████░░░░░░░░░░░   57.54 % 
-Claude Code              7 hrs 22 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.45 % 
-Antigravity CLI          3 hrs 30 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.29 % 
-Antigravity IDE          3 hrs 10 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.51 % 
-Postman                  2 hrs 14 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.31 % 
+VS Code                  25 hrs 36 mins      ███████████████░░░░░░░░░░   60.99 % 
+Claude Code              7 hrs 37 mins       █████░░░░░░░░░░░░░░░░░░░░   18.14 % 
+Antigravity CLI          3 hrs 29 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.32 % 
+Antigravity IDE          3 hrs 10 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.56 % 
+Postman                  1 hr 38 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.90 % 
 
 💻 Operating System: 
-Mac                      42 hrs 15 mins      █████████████████████████   100.00 % 
+Mac                      41 hrs 59 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 17 hrs 41 mins (41.86%)
+⏱ AI Coding Time: 17 hrs 41 mins (42.13%)
 
-✍️ 6,215 lines written by AI, 1,035 lines written by hand (85.72% AI-written)
+✍️ 5,365 lines written by AI, 425 lines written by hand (92.66% AI-written)
 
-🔤 6,091,633 Input Tokens, 1,096,770 Output Tokens
+🔤 4,880,476 Input Tokens, 797,458 Output Tokens
 
-💵 $87.73 Estimated AI Cost This Week
+💵 $55.68 Estimated AI Cost This Week
 
-🧠 21 AI Sessions, 161 AI Prompts
+🧠 17 AI Sessions, 130 AI Prompts
 
-Opus                     5,192 lines         █████████████████░░░░░░░░   68.42 % 
-Gemini                   2,396 lines         ████████░░░░░░░░░░░░░░░░░   31.58 % 
+Opus                     3,120 lines         ██████████████░░░░░░░░░░░   56.56 % 
+Gemini                   2,396 lines         ███████████░░░░░░░░░░░░░░   43.44 % 
 Haiku                    0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 85.72% of written lines came from AI
-📄 Detailed Prompter — average 605 characters per prompt
+🤖 AI-Driven — 92.66% of written lines came from AI
+📝 Concise Prompter — average 348 characters per prompt
 🔁 Iterative Prompter — average 8 prompts per session
-🚀 High AI Trust — 22.53% of changed lines were hand-edited
+🚀 High AI Trust — 9.1% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Dart** 
@@ -114,5 +114,5 @@ Kotlin                   1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 2026-10-19 @18:33:43 UTC
+ Last Updated on 2026-10-19 @23:29:21 UTC
 <!--END_SECTION:waka-->
