@@ -59,46 +59,45 @@ Sunday                   2956 commits        ████░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Dart                     34 hrs 57 mins      █████████████████████░░░░   83.25 % 
-HTTP Request             1 hr 35 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.80 % 
-YAML                     1 hr 22 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.27 % 
-Kotlin                   1 hr 19 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.14 % 
-Markdown                 1 hr 6 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   02.63 % 
+Dart                     26 hrs 33 mins      █████████████████████░░░░   84.97 % 
+Kotlin                   1 hr 19 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.22 % 
+YAML                     52 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.80 % 
+Markdown                 51 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.77 % 
+Python                   36 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.96 % 
 
 🔥 Editors: 
-VS Code                  25 hrs 36 mins      ███████████████░░░░░░░░░░   60.99 % 
-Claude Code              7 hrs 37 mins       █████░░░░░░░░░░░░░░░░░░░░   18.14 % 
-Antigravity CLI          3 hrs 29 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.32 % 
-Antigravity IDE          3 hrs 10 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.56 % 
-Postman                  1 hr 38 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.90 % 
+VS Code                  17 hrs 46 mins      ██████████████░░░░░░░░░░░   56.85 % 
+Claude Code              6 hrs 43 mins       █████░░░░░░░░░░░░░░░░░░░░   21.51 % 
+Antigravity CLI          3 hrs 29 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.18 % 
+Antigravity IDE          3 hrs 10 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.16 % 
+Android Studio           5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.30 % 
 
 💻 Operating System: 
-Mac                      41 hrs 59 mins      █████████████████████████   100.00 % 
+Mac                      31 hrs 15 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 17 hrs 41 mins (42.13%)
+⏱ AI Coding Time: 15 hrs 54 mins (50.91%)
 
-✍️ 5,365 lines written by AI, 425 lines written by hand (92.66% AI-written)
+✍️ 4,844 lines written by AI, 101 lines written by hand (97.96% AI-written)
 
-🔤 4,880,476 Input Tokens, 797,458 Output Tokens
+🔤 4,299,551 Input Tokens, 695,098 Output Tokens
 
-💵 $55.68 Estimated AI Cost This Week
+💵 $47.48 Estimated AI Cost This Week
 
-🧠 17 AI Sessions, 130 AI Prompts
+🧠 13 AI Sessions, 100 AI Prompts
 
-Opus                     3,120 lines         ██████████████░░░░░░░░░░░   56.56 % 
-Gemini                   2,396 lines         ███████████░░░░░░░░░░░░░░   43.44 % 
+Opus                     2,549 lines         █████████████░░░░░░░░░░░░   51.55 % 
+Gemini                   2,396 lines         ████████████░░░░░░░░░░░░░   48.45 % 
 Haiku                    0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 92.66% of written lines came from AI
-📝 Concise Prompter — average 348 characters per prompt
+🤖 AI-Driven — 97.96% of written lines came from AI
+📝 Concise Prompter — average 133 characters per prompt
 🔁 Iterative Prompter — average 8 prompts per session
-🚀 High AI Trust — 9.1% of changed lines were hand-edited
+🚀 High AI Trust — 3.78% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Dart** 
@@ -114,5 +113,5 @@ Kotlin                   1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 2026-10-20 @23:06:10 UTC
+ Last Updated on 2026-10-21 @03:42:29 UTC
 <!--END_SECTION:waka-->
