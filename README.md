@@ -34,6 +34,69 @@
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-8.98%20million%20lines%20of%20code-blue?style=flat)
 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                3112 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.93 % 
+🌆 Daytime                10167 commits       ███████████████░░░░░░░░░░   58.58 % 
+🌃 Evening                3899 commits        ██████░░░░░░░░░░░░░░░░░░░   22.47 % 
+🌙 Night                  177 commits         ░░░░░░░░░░░░░░░░░░░░░░░░░   01.02 % 
+```
+📅 **I'm Most Productive on Tuesday** 
+
+```text
+Monday                   3094 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.83 % 
+Tuesday                  3440 commits        █████░░░░░░░░░░░░░░░░░░░░   19.82 % 
+Wednesday                3263 commits        █████░░░░░░░░░░░░░░░░░░░░   18.80 % 
+Thursday                 3012 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.36 % 
+Friday                   119 commits         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.69 % 
+Saturday                 1471 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   08.48 % 
+Sunday                   2956 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.03 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+💬 Programming Languages: 
+Dart                     13 hrs 23 mins      ████████████████████░░░░░   80.71 % 
+Kotlin                   53 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.41 % 
+Markdown                 49 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.93 % 
+YAML                     40 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.04 % 
+Swift                    26 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.68 % 
+
+🔥 Editors: 
+VS Code                  10 hrs 15 mins      ███████████████░░░░░░░░░░   61.79 % 
+Claude Code              6 hrs 18 mins       ██████████░░░░░░░░░░░░░░░   38.02 % 
+Android Studio           1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 % 
+
+💻 Operating System: 
+Mac                      16 hrs 35 mins      █████████████████████████   100.00 % 
+```
+
+🤖 **AI Coding This Week** 
+
+```text
+⏱ AI Coding Time: 6 hrs 40 mins (40.23%)
+
+✍️ 2,083 lines written by AI, 71 lines written by hand (96.7% AI-written)
+
+🔤 1,450,536 Input Tokens, 334,784 Output Tokens
+
+💵 $35.99 Estimated AI Cost This Week
+
+🧠 6 AI Sessions, 32 AI Prompts
+
+Opus                     2,107 lines         █████████████████████████   100.00 % 
+Haiku                    0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+
+🔎 AI Coding Insights:
+🤖 AI-Driven — 96.7% of written lines came from AI
+📝 Concise Prompter — average 203 characters per prompt
+🔁 Iterative Prompter — average 5 prompts per session
+🚀 High AI Trust — 6.02% of changed lines were hand-edited
+```
+
 **I Mostly Code in Dart** 
 
 ```text
@@ -47,5 +110,5 @@ Kotlin                   1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 2026-10-23 @03:47:26 UTC
+ Last Updated on 2026-10-23 @09:16:14 UTC
 <!--END_SECTION:waka-->
